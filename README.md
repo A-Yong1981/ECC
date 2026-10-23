@@ -19,10 +19,10 @@
 
 <p align="center">
   <strong>Language:</strong>
-  <a href="README.md">English</a> |
+  <a href="README.md">简体中文</a> |
   <a href="docs/ar/README.md">العربية</a> |
   <a href="docs/pt-BR/README.md">Português (Brasil)</a> |
-  <a href="README.zh-CN.md">简体中文</a> |
+  <a href="README.zh-CN.md">English</a> |
   <a href="docs/zh-TW/README.md">繁體中文</a> |
   <a href="docs/ja-JP/README.md">日本語</a> |
   <a href="docs/ko-KR/README.md">한국어</a> |
